@@ -4,6 +4,7 @@
   "scripts": {
     "pretest": "echo \"PRE\"",
     "test": "echo \"HELLO\"",
+    "environment-variables": "echo %npm_command%",
     "posttest": "echo \"POST\""
   },
   "devDependencies": {
