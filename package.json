@@ -1,7 +1,11 @@
 {
   "name": "@luotao/learning-pnpm",
   "version": "1.0.0",
-  "scripts": {},
+  "scripts": {
+    "pretest": "echo \"PRE\"",
+    "test": "echo \"HELLO\"",
+    "posttest": "echo \"POST\""
+  },
   "devDependencies": {
     "prettier": "2.8.1"
   }
