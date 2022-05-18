@@ -1,9 +1,7 @@
 {
   "name": "@luotao/learning-pnpm",
   "version": "1.0.0",
-  "scripts": {
-    "test": "echo \"\" && exit 1"
-  },
+  "scripts": {},
   "devDependencies": {
     "prettier": "2.8.1"
   }
